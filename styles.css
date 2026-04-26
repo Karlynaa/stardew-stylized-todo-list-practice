@@ -1,0 +1,99 @@
+.sub-item-link:link {
+    color: #064E6B;
+  }
+
+  .sub-item-link:hover {
+  color: #32C414;
+}
+
+ .sub-item-link:visited {
+   color: #7920B0;
+ }
+
+ .sub-item-link:active {
+   color: #FAFA05;
+ }
+
+  .sub-item-link:focus {
+    color: #C744A5;
+    outline: 2px solid orange;
+  }
+  
+  input:focus {
+    outline: 2px solid orange;
+  }
+
+  body {
+  font-family: Montserrat, Arial, Lato;
+  margin: 20px;
+  padding: 15px;
+  margin: 20px auto;
+  width: fit-content;
+  border-radius: 10px;
+  }
+
+  a {
+  text-decoration: none;
+  color: #219BD9;
+}
+
+.sub-item-link:link {
+    color: #064E6B;
+  }
+
+  a:hover {
+  color: #32C414;
+}
+
+ a:visited {
+   color: #7920B0;
+ }
+
+ a:active {
+   color: #FAFA05;
+ }
+
+  a:focus {
+    color: #C744A5;
+    outline: 2px solid orange;
+  }
+
+  h1 {
+    color: #17BF08
+  }
+
+  h2 {
+    text-align: center;
+  }
+
+  img {
+  display: block;
+  margin: 0 auto;
+}
+
+.todo-list > li {
+  background-color: #c2e0c2;
+  padding: 15px;
+  margin: 15px auto;
+  border-radius: 10px;
+}
+
+.todo-list {
+  list-style: none;
+  padding: 0;
+}
+
+.sub-item {
+  list-style-image: url("https://stardewvalleywiki.com/mediawiki/images/2/26/Bundle_Complete_Balloon.png");
+  padding: 0;
+  list-style-position: inside;
+}
+
+.container {
+  background-color: rgba(255, 255, 255, 0.85);
+  padding: 25px;
+  margin: 30px auto;
+  border-radius: 15px;
+  max-width: 600px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
